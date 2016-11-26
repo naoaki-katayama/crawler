@@ -1,0 +1,6 @@
+ファイルのコミット方法
+
+git add .
+git commit -m '作業の名前'
+git push origin 適用させるブランチ名
+git checkout -b 'ブランチの名前'
